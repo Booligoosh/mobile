@@ -1,14 +1,4 @@
 body {
-background-image: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
-    ),
-    url("https://cloud.githubusercontent.com/assets/14034891/9651604/3d33f276-5256-11e5-97d6-d2de56ddac68.jpg");
-background-size: cover;
-background-position: center center;
-background-repeat: no-repeat;
-background-attachment: fixed;
 color: white;
 font-family: 'Work Sans', sans-serif;
 text-align: center;
@@ -22,7 +12,7 @@ text-align: center;
 .tabs {
     color: white;
     margin-top: 400px;
-    background-color: rgba(247, 150, 70, 0.75);
+    background-color: rgb(247, 150, 70);
     padding: 1px;
 }
 .tabs a {
@@ -40,7 +30,7 @@ text-align: center;
     padding-bottom: 20px;
 }
 .content {
-    background-color: rgba(228, 108, 10, 0.5);
+    background-color: rgb(228, 108, 10);
     margin-top: 0;
     padding-top: 10px;
     padding-bottom: 50px;
