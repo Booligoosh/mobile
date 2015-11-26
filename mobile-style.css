@@ -4,14 +4,14 @@ font-family: 'Work Sans', sans-serif;
 text-align: center;
 }
 .logo {
-    margin-top: 275px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .info {
     margin-top: 50px;
 }
 .tabs {
     color: white;
-    margin-top: 400px;
     background-color: rgb(247, 150, 70);
     padding: 1px;
 }
