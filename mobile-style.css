@@ -27,17 +27,18 @@ body {
 .tabs a {
     display: block;
     color: white;
+    text-decoration: none;
     transition: 0.4s;
 }
 .tabs a:hover {
     display: block;
     color: white;
+    text-decoration: none;
     background-color: rgb(1, 255, 174);
 }
 .tabs h3 {
     margin: 0;
     font-size: 100px;
-    text-decoration: none;
 }
 .content {
     background-color: rgb(228, 108, 10);
