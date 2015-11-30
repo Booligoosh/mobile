@@ -22,7 +22,8 @@ body {
 .tabs {
     color: white;
     background-color: rgb(247, 150, 70);
-    line-height: 100px;
+    line-height: 130px;
+    text-decoration: none;
 }
 .tabs a {
     display: inline;
@@ -35,7 +36,7 @@ body {
 }
 .tabs h3 {
     margin: 0;
-    font-size: 50px;
+    font-size: 100px;
 }
 .content {
     background-color: rgb(228, 108, 10);
