@@ -23,7 +23,6 @@ body {
     color: white;
     background-color: rgb(247, 150, 70);
     line-height: 130px;
-    text-decoration: none;
 }
 .tabs a {
     display: block;
@@ -35,6 +34,7 @@ body {
 .tabs h3 {
     margin: 0;
     font-size: 100px;
+    text-decoration: none;
 }
 .content {
     background-color: rgb(228, 108, 10);
