@@ -27,8 +27,11 @@ body {
 .tabs a {
     display: block;
     color: white;
+    transition: 0.4s;
 }
 .tabs a:hover {
+    display: block;
+    color: white;
     background-color: rgb(1, 255, 174);
 }
 .tabs h3 {
