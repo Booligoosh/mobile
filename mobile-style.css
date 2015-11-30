@@ -4,8 +4,11 @@ font-family: 'Work Sans', sans-serif;
 text-align: center;
 }
 .logo {
+    size: fill;
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 .info {
     margin-top: 50px;
