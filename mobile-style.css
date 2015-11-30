@@ -56,6 +56,10 @@ body {
 .websites div {
     margin-top: 100px;
 }
+.iframe {
+    width: 95%;
+    height: auto;
+}
 #backtotop {
     position: fixed;
     bottom: 0;
