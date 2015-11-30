@@ -22,7 +22,7 @@ body {
 .tabs {
     color: white;
     background-color: rgb(247, 150, 70);
-    line-height: 75px;
+    line-height: 100px;
 }
 .tabs a {
     display: inline;
@@ -32,6 +32,10 @@ body {
 }
 .tabs span {
     color: rgb(1, 255, 174);
+}
+.tabs h3 {
+    margin: 0;
+    font-size: 50px;
 }
 .content {
     background-color: rgb(228, 108, 10);
