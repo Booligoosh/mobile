@@ -4,12 +4,14 @@ font-family: 'Work Sans', sans-serif;
 text-align: center;
 }
 .logo {
-    width: 100%;
-    height: auto;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 2.5px;
     margin-right: 2.5px;
+}
+.logo img {
+    width: 100%;
+    height: auto;
 }
 .info {
     margin-top: 50px;
