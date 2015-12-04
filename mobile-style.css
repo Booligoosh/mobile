@@ -63,8 +63,13 @@ body {
 #backtotop {
     position: fixed;
     bottom: 0;
-    right: 25px;
+    width: 100%;
+    margin: 0;
     background-color: rgb(247, 150, 70);
     padding: 3px;
     text-decoration: none;
+}
+#backtotop {
+    text-decoration: none;
+}
 }
