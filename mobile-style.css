@@ -40,7 +40,7 @@ body {
     margin: 0;
     font-size: 100px;
 }
-.tabs span {
+.tabs span:parent {
     background-color: rgb(1, 255, 174);
 }
 .content {
