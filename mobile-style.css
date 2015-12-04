@@ -49,6 +49,7 @@ body {
 }
 .content a {
     color: white;
+    text-decoration: none;
 }
 #extlink {
     text-decoration: underline;
@@ -67,8 +68,5 @@ body {
     margin: 0;
     background-color: rgb(247, 150, 70);
     padding: 3px;
-    text-decoration: none;
-}
-#backtotoplink {
     text-decoration: none;
 }
