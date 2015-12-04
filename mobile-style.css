@@ -41,8 +41,7 @@ body {
     font-size: 100px;
 }
 .tabs span {
-    width: 100%;
-    background-color: rgb(1, 255, 174);
+    color: rgb(1, 255, 174);
 }
 .content {
     background-color: rgb(228, 108, 10);
